@@ -14,7 +14,7 @@ bool hasDuplicates(vector<int> list) {
 
 
 void removeDuplicates(vector<int>& list) {
-      //Complete this function
+   //Complete this function
 }
 
 
