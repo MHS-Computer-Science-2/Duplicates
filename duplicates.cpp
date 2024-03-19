@@ -9,12 +9,12 @@
 using namespace std;
 
 bool hasDuplicates(vector<int> list) {
-   //Complete this function
+	//Complete this function
 }
 
 
 void removeDuplicates(vector<int>& list) {
-   //Complete this function
+	//Complete this function
 }
 
 
